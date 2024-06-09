@@ -8,3 +8,5 @@ Example tutorial on Anaconda prompt:
 2. Type "python AlgSolve.py {Image filepath} {.pth filepath}" make sure everything is seperated by whitespace
 3. Results should appear in the prompt
 4. Enjoy!
+
+Example photo "137z.png" can be found above, including every file needed to run this program
